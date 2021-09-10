@@ -1,0 +1,16 @@
+{
+    "tweets": [
+        {
+            "author": "Mo",
+            "text": "Lez go boys"
+        },
+        {
+            "author": "Elyse",
+            "text": "Lez go girls"
+        },
+        {
+            "author": "Ali",
+            "text": "Lez go guys"
+        }
+    ]
+}
